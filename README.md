@@ -1,6 +1,6 @@
-# go-hexagonal-architecture
+# Go Software Architecture
 
-This repository demonstrates how to build a **Backend Service in Go Programming Language** using modern architectural principles including **Hexagonal Architecture, Clean Architecture, Domain-Driven Design (DDD), and Command Query Responsibility Segregation (CQRS)** with a focus on making the system **Scalable, Maintainable, and Testable**.
+Go Software Architecture is a project focused on building backend services using the Go programming language and modern architectural principles including Hexagonal Architecture, Clean Architecture, Domain-Driven Design (DDD), and Command Query Responsibility Segregation (CQRS) to achieve high maintainability, modularity, testability, and scalability
 
 Example Project :
 - [Product Service API](https://github.com/fildzaanf/product-service-api)
